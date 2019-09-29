@@ -1181,10 +1181,11 @@ section.lazy-placeholder:after {
 .cid-rDryg4pl4c .mbr-text,
 .cid-rDryg4pl4c .mbr-section-btn {
   text-align: center;
+  color: #ffffff;
 }
 .cid-rDryg4pl4c H1 {
-  text-align: left;
-  color: #ffffff;
+  text-align: center;
+  color: #149dcc;
 }
 .cid-rDrCJcKyAG {
   padding-top: 90px;
